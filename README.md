@@ -1,2 +1,3 @@
 # santex-Smart-Interoperable-Healthcare-Record-Management-System
 SANTEX is a smart healthcare record management system that securely connects patients, doctors, hospitals, and government administration. It enables permission-based access to sensitive medical records, centralized data management, secure healthcare interoperability, and improved emergency treatment through digital medical record sharing.
+https://gunasekharboorlu.github.io/santex-Smart-Interoperable-Healthcare-Record-Management-System/
